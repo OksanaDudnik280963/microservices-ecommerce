@@ -1,0 +1,18 @@
+server:
+  port: 8761
+spring:
+  application:
+    name: discovery-server
+eureka:
+  server:
+    enable-self-preservation: false
+    eviction-interval-timer-in-ms: 5000 # Check for dead instances every 5s (default is 60s)
+  instance:
+    hostname: localhost
+    lease-renewal-interval-in-seconds: 5 # Send heartbeat every 5s
+    lease-expiration-duration-in-seconds: 10 # Expire instance if no heartbeat for 10s
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/

@@ -1,0 +1,15 @@
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\service\impl\OrderServiceImpl.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\repository\OrderRepository.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\client\dto\ProductResponseDto.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\event\OrderCreatedEvent.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\dto\OrderItemRequest.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\OrderServiceApplication.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\service\OrderService.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\entity\OrderStatus.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\controller\OrderController.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\entity\OrderItem.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\dto\OrderItemDto.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\entity\Order.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\client\ProductClient.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\dto\OrderResponse.java
+G:\Мой диск\MyLibraryPresentations\Microservices\project\microservices-ecommerce\order-service\src\main\java\com\example\orderservice\dto\OrderCreateRequest.java
